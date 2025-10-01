@@ -1,0 +1,23 @@
+version: '3.8'
+services:
+  intelliflow-copilot:
+    build: .
+    ports:
+      - "8000:8000"  # FastAPI backend
+      - "8501:8501"  # Streamlit frontend
+    volumes:
+      - ./data/streams:/app/data/streams
+      - ./logs:/app/logs
+    environment:
+      - PYTHONPATH=/app
+      - API_PORT=8000
+      - STREAMLIT_PORT=8501
+      - PATHWAY_LICENSE_KEY=${PATHWAY_LICENSE_KEY:-demo}
+    restart: unless-stopped
+    container_name: intelliflow-hackathon
+    networks:
+      - logistics-network
+
+networks:
+  logistics-network:
+    driver: bridge

@@ -1,0 +1,23 @@
+[
+  {
+    "driver_id": "D-001",
+    "name": "John Smith",
+    "safety_score": 9.2,
+    "incidents": 0,
+    "last_update": "2025-10-01T02:32:56.447131"
+  },
+  {
+    "driver_id": "D-002",
+    "name": "Maria Garcia",
+    "safety_score": 7.1,
+    "incidents": 3,
+    "last_update": "2025-10-01T02:32:56.447142"
+  },
+  {
+    "driver_id": "D-003",
+    "name": "David Chen",
+    "safety_score": 8.8,
+    "incidents": 1,
+    "last_update": "2025-10-01T02:32:56.447145"
+  }
+]

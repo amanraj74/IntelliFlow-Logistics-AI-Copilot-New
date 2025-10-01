@@ -1,0 +1,16 @@
+[
+  {
+    "shipment_id": "SH-001",
+    "route": "Delhi-Mumbai",
+    "value": 125000,
+    "status": "In Transit",
+    "deviation": 0
+  },
+  {
+    "shipment_id": "SH-002",
+    "route": "Bangalore-Chennai",
+    "value": 89000,
+    "status": "Anomaly Detected",
+    "deviation": 45
+  }
+]

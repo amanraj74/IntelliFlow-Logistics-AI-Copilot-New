@@ -1,0 +1,14 @@
+[
+  {
+    "invoice_id": "INV-001",
+    "amount": 12500,
+    "due_date": "2025-10-05",
+    "status": "Pending"
+  },
+  {
+    "invoice_id": "INV-002",
+    "amount": 8300,
+    "due_date": "2025-09-28",
+    "status": "Overdue"
+  }
+]

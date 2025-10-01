@@ -1,0 +1,9 @@
+{
+  "driver_id": "D-EMERGENCY-162033",
+  "name": "Emergency Driver 162033",
+  "safety_score": 1.5,
+  "status": "EMERGENCY - IMMEDIATE ACTION REQUIRED",
+  "incidents": 5,
+  "timestamp": "2025-10-01T16:20:33.704940",
+  "emergency_type": "CRITICAL SAFETY VIOLATION"
+}

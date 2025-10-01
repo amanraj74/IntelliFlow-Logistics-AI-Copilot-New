@@ -1,0 +1,17 @@
+[
+  {
+    "driver_id": "D-001",
+    "safety_score": 8.5,
+    "status": "active"
+  },
+  {
+    "driver_id": "D-002",
+    "safety_score": 6.2,
+    "status": "high_risk"
+  },
+  {
+    "driver_id": "D-003",
+    "safety_score": 9.1,
+    "status": "active"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "generation_date": "2025-10-01T18:02:11.210085",
+  "total_drivers": 50,
+  "high_risk_drivers": 21,
+  "total_shipments": 30,
+  "anomaly_shipments": 8,
+  "total_invoices": 25,
+  "overdue_invoices": 6,
+  "fleet_vehicles": 15,
+  "total_records": 120
+}

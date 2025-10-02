@@ -1,0 +1,18 @@
+{
+  "driver_id": "D-EMERGENCY-081420",
+  "name": "Emergency Driver 081420",
+  "safety_score": 2.0,
+  "status": "EMERGENCY - IMMEDIATE ACTION REQUIRED",
+  "incidents": 5,
+  "experience_years": 2,
+  "home_city": "Emergency Route",
+  "vehicle_type": "Emergency Truck",
+  "license_class": "CDL-EMERGENCY",
+  "rating": 1.8,
+  "violation_type": "Critical Safety Violation",
+  "timestamp": "2025-10-02T08:14:20.251016",
+  "emergency_type": "CRITICAL SAFETY VIOLATION",
+  "immediate_action": "SUSPEND DRIVING PRIVILEGES",
+  "supervisor_notified": true,
+  "created_via": "LIVE DEMO API"
+}

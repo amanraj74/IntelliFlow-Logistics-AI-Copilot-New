@@ -19,7 +19,7 @@
 
 ---
 
-## 🌟 **HACKATHON-WINNING INNOVATION**
+## 🌟 **Team Name - DeepLearners**
 
 ### **The Challenge Met: Real-Time Data Processing with Live Verification**
 
@@ -1246,7 +1246,7 @@ class ExternalAPIConnector:
 
 ### ⭐ **STAR THIS REPO IF YOU FOUND IT HELPFUL!** ⭐
 
-**🎯 READY TO WIN • 🚀 READY TO DEPLOY • 💡 READY TO SCALE**
+** • 🚀 READY TO DEPLOY • 💡 READY TO SCALE**
 
 ---
 

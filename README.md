@@ -67,7 +67,7 @@ Production-ready Streamlit dashboard with beautiful visualizations
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot.git
+git clone https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot-New.git
 cd IntelliFlow-Logistics-AI-Copilot
 
 # 2. Start everything with one command
@@ -220,7 +220,7 @@ IntelliFlow-Logistics-AI-Copilot/
 └── 📄 README.md                         # This documentation
 
 ═══════════════════════════════════════════════════════════════
-🔥 HACKATHON-WINNING SYSTEM (Active Files Only)
+🔥 HACKATHON-SYSTEM (Active Files Only)
 ═══════════════════════════════════════════════════════════════
 
 🏆 CRITICAL FILES FOR JUDGES:
@@ -594,52 +594,6 @@ Write-Host "`nVerifying file creation..." -ForegroundColor Cyan
 docker exec intelliflow-hackathon ls -la data/streams/emergency_*.json
 ```
 
-### **Video Script for Recording** 🎬
-
-> **[Opening - 0:00]**
-> 
-> "Hello! I'm Aman Jaiswal, and I built IntelliFlow for the Pathway × IIT Ropar Gen AI Hackathon. This is a real-time logistics intelligence platform that proves genuine live data processing."
-> 
-> **[System Demo - 0:15]**
-> 
-> "Let me show you the system. One command starts everything—backend, frontend, and Pathway streaming processor."
-> 
-> *(Show: `docker-compose up` command running)*
-> 
-> **[UI Showcase - 0:30]**
-> 
-> "Here's our professional Streamlit dashboard with real-time metrics, AI copilot, and live data visualizations."
-> 
-> *(Show: Beautiful UI with metrics, charts, and chat interface)*
-> 
-> **[Live Proof - 0:45]**
-> 
-> "Now, the most important part—proving real-time processing. Watch this carefully:
-> 
-> **BEFORE**: I ask 'show emergency drivers'... *[Query returns 0 results]*
-> 
-> **ADDING**: I create a new emergency driver situation via API... *[Show POST request]*
-> 
-> **WAIT**: Pathway processes the new file... *[3 seconds]*
-> 
-> **AFTER**: I ask the SAME question... *[Query returns 1 emergency driver with details]*
-> 
-> Same question, different answer—that's genuine real-time data processing!"
-> 
-> **[Technical Deep Dive - 1:30]**
-> 
-> "Under the hood, we're using the authentic Pathway framework for streaming ETL, FastAPI for our backend, and a sophisticated RAG pipeline for AI queries. The system monitors the data/streams folder and automatically updates the knowledge base within seconds."
-> 
-> **[Features Highlight - 2:00]**
-> 
-> "Key features include anomaly detection, driver risk scoring, compliance monitoring, and multi-agent coordination—all working with live data."
-> 
-> **[Closing - 2:30]**
-> 
-> "IntelliFlow is production-ready, fully dockerized, and demonstrates exactly what the hackathon asked for—real-time data processing with instant AI response updates. Thank you!"
-
----
-
 ## 🧪 **TESTING & QUALITY ASSURANCE**
 
 ### **Test Suite**
@@ -737,7 +691,7 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot.git
+   git clone https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot-New.git
    cd IntelliFlow-Logistics-AI-Copilot
    ```
 
@@ -781,9 +735,9 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 
 ### **Getting Help**
 
-- 💬 [GitHub Discussions](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot/discussions)
-- 🐛 [Report Bug](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot/issues/new?template=bug_report.md)
-- 💡 [Request Feature](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot/issues/new?template=feature_request.md)
+- 💬 [GitHub Discussions](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot-New/discussions)
+- 🐛 [Report Bug](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot-New/issues/new?template=bug_report.md)
+- 💡 [Request Feature](https://github.com/amanraj74/IntelliFlow-Logistics-AI-Copilot-New/issues/new?template=feature_request.md)
 
 ---
 
